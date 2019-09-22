@@ -1,0 +1,15 @@
+.validation-error{
+    color:red;
+    text-align:center;
+}
+i{
+    cursor: pointer;
+    @media only screen and (max-width:600px){
+        font-size:12px;
+    }
+}
+table th{
+    @media only screen and (max-width:600px){
+        font-size:12px;
+    }
+}
